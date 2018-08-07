@@ -4,6 +4,14 @@
   "description": "Don't Afraid Launcher",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron main.js",
+    "build": "electron-packager . Afraid"
+  },
+  "author": "STARTERGATE",
+  "licence": "GPL-3.0",
+  "devDependencies": {
+    "asar": "^0.14.3",
+    "electron": "^2.0.6",
+    "electron-packager": "^12.1.0"
   }
 }
