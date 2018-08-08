@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@font-face {
+    font-family: 'Avenir LT 65 Medium';
+    src: url('font/AvenirLT-Medium.woff2') format('woff2'),
+        url('font/AvenirLT-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aleo Light';
+    src: url('font/Aleo-Light.woff2') format('woff2'),
+        url('font/Aleo-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
